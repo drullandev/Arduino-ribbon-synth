@@ -7,6 +7,7 @@ I decided to break the schematic down into its components so it would be easy fo
 These are the strings of the synth (https://www.sparkfun.com/products/8681). Solder them up like this, each with it's own 7805 voltage regulator.
 
 ![images/1 - The Softpot strings.png](images/1 - The Softpot strings.png)
+EDIT: this is actually stupid. All you really need is a 10k resistor in series between the middle softpot pin and the arduino adc input. Don't use a regulator for this.
 
 
 ## Piezo triggers

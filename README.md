@@ -3,6 +3,8 @@ Note that it uses force sensitive resistors instead of piezo drum pads</h1>
 
 # [Arduino Ribbon Synth](https://www.youtube.com/watch?v=s3dBox-LB7I)
 
+# bcxvbcxvbcxvbxcbxcvbv
+
 I decided to break the schematic down into its components so it would be easy for people to recreate. The Arduino really does all the heavy lifting and allows the rest of the circuit to be very simple. The red number in the top right hand corner of each picture is how many of each circuit are needed.
 
 ## The Softpot Strings
